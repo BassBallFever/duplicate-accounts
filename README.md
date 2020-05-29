@@ -1,6 +1,22 @@
 # Helping Moderators
 ## Identifying Who A Duplicate Account Belongs To
 
+![](/images/closeup.png)
+
+  * [Introduction](#introduction)
+  * [Objective](#objective)
+  * [Dataset](#dataset)
+    + [Source](#source)
+    + [Data Cleaning](#data-cleaning)
+    + [Examining the Data](#examining-the-data)
+  * [Methodology](#methodology)
+  * [Findings](#findings)
+  * [Conclusions](#conclusions)
+  * [References](#references)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## Introduction
 
 Online forum moderators face a number of issues. They monitor the posts to make sure the rules are followed, keeping the forum free of spam, and answering user questions (Internet forums, n.d.). One rule that is common in online forums is that each user has only one account. Occasionally, a user will create a second account for the purposes of spamming the network or to validate their ideas. Moderators need a tool to help them investigate a suspicious account.
